@@ -1,0 +1,40 @@
+
+body {
+    margin-left: 320px;
+    margin-right: 320px;
+}
+
+#addItem {
+    margin-top: 40px;
+}
+
+input {
+    border-radius: 5px;
+}
+
+input {
+    font: 32px helvetica;
+}
+
+input[type="submit"] {
+    margin-left: 10px;
+}
+
+ul#list {
+    font: 40px helvetica;
+    margin-top: 50px;
+}
+
+li {
+    margin-top: 10px;
+    list-style-type: none;
+    width: 380px;
+}
+
+button {
+    font: 30px helvetica;
+    border-radius: 5px;
+    float: right;
+}
+
+
